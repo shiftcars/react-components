@@ -14,7 +14,7 @@
  * addons and under the Apache 2.0 License.
  */
 
-var React = require('react/addons');
+var React = require('react');
 var ReactDOM = require('react-dom');
 var ReactTransitionGroup = require('react-addons-transition-group');
 
